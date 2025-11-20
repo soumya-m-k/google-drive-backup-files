@@ -2,7 +2,7 @@
 
 You can backup files from google drive in both computers and mobiles also by manual and automatic backup.
 
-### 1. Manual Backup using google drive
+### 1. Backup Files using browser
 Use this if you want upload files occasionally
 
 Step 1. Open google drive
@@ -10,70 +10,62 @@ Step 1. Open google drive
 •	Go to drive.google.com <br>
 •	Sign in with your google account <br>
 
- Step 2. Upload files 
+ Step 2. Upload files or folders<br> 
+ To upload file:
  
 •	Click new <br>
 •	Select file upload <br>
-•	Choose your file to upload <br>
+•	Choose file you to backup <br>
 
- Step 3. Wait for upload to finish
+ To upload entire folder
+
+ + Click new <br>
+ + select folder upload <br>
+ + Choose folder to backup
+   
+Step 3. Confirm upload 
  
-A progress window will appear. When completes. Then files will show in “My Drive”
+The upload progress appears in the bottom-right corner.
 
-### 2. Automatic backup using google drive for desktop
+Once complete, your files will appear in your Drive.
+
+
+### 2. Backup files using google drive for desktop
 This keeps your pc files automatically synced with google drive.
 
 step 1. Install Google drive for desktop
 
 + go to https://www.google.com/drive/download
-+ install and signin
++ Download and install
++ log in with your google account
+  
+step 2. Choose Folders to backup
 
-  step 2. Choose Folders to backup
-
+  + Open google drive for desktop app
+  + go to preferences under my computer
+  + click add folder
   + select Folders you want to sync
-  + select folder like documents,picture and custom folders
+  + choose sync with google drive or backup to google photos(for images/videos)
 
-  step 3. Choose backup type
+  step 3. Verify Sync
 
-  you will see t
+   + A Drive icon will appear in your system tray.
+   + Any file placed in a synced folder automatically uploads to Google Drive.
+   + A green checkmark indicates successful backup.
+
+
+Any file placed in a synced folder automatically uploads to Google Drive.
+
+A green checkmark indicates successful backup.
+   
 
 
 
 
-  Method 1: Back Up Files Using a Web Browser
-Step 1: Open Google Drive
 
-Go to Google Drive and sign in with your Google account.
+ 
 
-Step 2: Upload Files or Folders
 
-To upload a file:
-
-Click New (top-left).
-
-Select File upload.
-
-Choose the file you want to back up.
-
-To upload an entire folder:
-
-Click New.
-
-Select Folder upload.
-
-Choose the folder to back up.
-
-Step 3: Confirm Upload
-
-The upload progress appears in the bottom-right corner.
-
-Once complete, your files will appear in your Drive.
-
-Notes
-
-You can drag and drop files directly into the browser window.
-
-Google Drive provides 15GB of free storage; larger amounts require a subscription.
 
 Method 2: Back Up Files Using Google Drive for Desktop
 Step 1: Install Google Drive for Desktop
