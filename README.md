@@ -67,33 +67,6 @@ A green checkmark indicates successful backup.
 
 
 
-Method 2: Back Up Files Using Google Drive for Desktop
-Step 1: Install Google Drive for Desktop
-
-Download and install Google Drive for Desktop from Google.
-
-Log in with your Google account.
-
-Step 2: Choose Folders to Sync
-
-Open the Google Drive for Desktop app.
-
-Go to Preferences.
-
-Under My Computer, click Add folder.
-
-Select any folder you want to automatically back up.
-
-Choose Sync with Google Drive or Back up to Google Photos (for images/videos).
-
-Step 3: Verify Sync
-
-A Drive icon will appear in your system tray.
-
-Any file placed in a synced folder automatically uploads to Google Drive.
-
-A green checkmark indicates successful backup.
-   
 
 
 
